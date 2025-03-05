@@ -49,5 +49,5 @@ The best way to showcase skills is by doing and sharing your job done but someti
 
 
 ## Contacts
-- LinkedIn: [@tiannaparris](https://www.linkedin.com/in/sahanur-asif-sizan/)
+- LinkedIn: (https://www.linkedin.com/in/sahanur-asif-sizan/)
 - Email: sasifsizan2408@gmail.com
