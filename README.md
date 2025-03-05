@@ -6,13 +6,11 @@ I’m Sizan, currently completing my Bachelor degree in Accounting. I also have 
 Throughout my studies, I’ve developed a keen eye for identifying patterns and trends in complex data sets. Additionally, I have gained experience in laboratory techniques, data management, statistical analysis, and am also proficient in data analysis tools such as Power BI, QuickBooks, and am learning German for broader international engagement.
 
 In my free time, I’m always exploring new data analysis tools and techniques to further my knowledge. The thrill of discovering new insights and solving complex problems drives me, and I enjoy both team collaborations and independent work.
-My CV in [pdf]().
+My CV in [pdf](https://github.com/Sizan2408/Portfolio/blob/main/CV_sizan.pdf).
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
-- [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about)
-- [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
   - Python
     - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
     - [Tech Store Sales Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#tech-store-sales-analysis)  
@@ -21,9 +19,8 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Nashville Housing Data Cleaning](https://github.com/tiannaparris/Data-Analysis-Portfolio#nashville-housing-data-cleaning)
   - R
     - [Legendary Pokémon Analysis (Study Project)](https://github.com/tiannaparris/Data-Analysis-Portfolio#legendary-pok%C3%A9mon-analysis)
-  - Excel / Google Sheets
-  - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/tianna.parris)
-  - Power BI
+  - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/sahanur.asif.sizan/vizzes)
+  - Power BI --->[go to Power BI..]
   
 
 
