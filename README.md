@@ -21,7 +21,8 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 ## Power BI:
-- Project 1--> Superstore Analytics (https://github.com/Sizan2408/Superstore-Analytics-Dashboard-)
+- Project 1--> Superstore Analytics ([https://github.com/Sizan2408/Superstore-Analytics-Dashboard-](https://app.powerbi.com/groups/me/reports/c6752d27-2246-4942-966e-f9bd8f7cdb0a/de233478d3496c0bce70?experience=power-bi))
+- Project 2--> 
    
 ## Tableau:
 - Project 1-->HR Analytics Dashboard (https://public.tableau.com/app/profile/sahanur.asif.sizan/viz/HRAnalyticsDashboard_17415527445850/Dashboard2)
