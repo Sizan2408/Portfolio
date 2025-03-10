@@ -22,7 +22,7 @@ This is a repository to showcase skills, share projects and track my progress in
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 ## Power BI:
 - Project 1--> Superstore Analytics 
-- Project 2--> Ecommerce Sales Dashboard Project-1.pbix
+- Project 2--> Ecommerce Sales Dashboard [Project-1.pbix](https://github.com/Sizan2408/Portfolio/blob/main/Project-1.pbix)
 ## Tableau:
 - Project 1-->HR Analytics Dashboard (https://public.tableau.com/app/profile/sahanur.asif.sizan/viz/HRAnalyticsDashboard_17415527445850/Dashboard2)
 - Project 2-->Walmart retail data analysis (https://public.tableau.com/app/profile/sahanur.asif.sizan/viz/Walmartretaildataanalysis_17415514027170/Dashboard1)
