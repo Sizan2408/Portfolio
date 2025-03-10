@@ -30,18 +30,18 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 ## Education
-- University of Chittagong: CGPA:3.74 
+- University of Chittagong: CGPA:3.74,
  BBA - Accounting,
  Jan 2020 - June 2025
 
-- Govt. Commerce College,Chittagong: GPA:5.00
+- Govt. Commerce College,Chittagong: GPA:5.00,
  Higher Secondary Certificate,
  Business Studies,
  2017 - 2019
 
-- Nasirabad Govt. High School: GPA:5.00
+- Nasirabad Govt. High School: GPA:5.00,
  Secondary School Certificate,
- Business Studies
+ Business Studies,
   2016 - 2017
 
 ## Certificates
