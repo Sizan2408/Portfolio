@@ -25,27 +25,24 @@ In this section I will list data analytics projects briefly describing the techn
 - Project 2--> Superstore Analytics (https://github.com/Sizan2408/Superstore-Analytics-Dashboard-)
    
 ## Tableau:
-
-
-
-
-
+- Project 1-->HR Analytics Dashboard (https://public.tableau.com/app/profile/sahanur.asif.sizan/viz/HRAnalyticsDashboard_17415527445850/Dashboard2)
+- Project 2-->Walmart retail data analysis (https://public.tableau.com/app/profile/sahanur.asif.sizan/viz/Walmartretaildataanalysis_17415514027170/Dashboard1)
 
 
 ## Education
-University of Chittagong: 
-BBA - Accounting,
-Jan 2020 - June 2025
+-University of Chittagong: 
+-BBA - Accounting,
+-Jan 2020 - June 2025
 
-Govt. Commerce College,Chittagong:
-Higher Secondary Certificate,
-Business Studies,
-2017 - 2019
+-Govt. Commerce College,Chittagong:
+-Higher Secondary Certificate,
+-Business Studies,
+-2017 - 2019
 
-Nasirabad Govt. High School:
-Secondary School Certificate,
-Business Studies
-2016 - 2017
+-Nasirabad Govt. High School:
+-Secondary School Certificate,
+-Business Studies
+-2016 - 2017
 
 ## Certificates
 The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
