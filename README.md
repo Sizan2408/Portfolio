@@ -6,7 +6,7 @@ I’m Sizan, currently completing my Bachelor degree in Accounting. I also have 
 Throughout my studies, I’ve developed a keen eye for identifying patterns and trends in complex data sets. Additionally, I have gained experience in laboratory techniques, data management, statistical analysis, and am also proficient in data analysis tools such as Power BI, QuickBooks, and am learning German for broader international engagement.
 
 In my free time, I’m always exploring new data analysis tools and techniques to further my knowledge. The thrill of discovering new insights and solving complex problems drives me, and I enjoy both team collaborations and independent work.
-My CV in [pdf](https://github.com/Sizan2408/Portfolio/blob/main/CV_sizan.pdf).
+My CV
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
