@@ -45,9 +45,9 @@ In this section I will list data analytics projects briefly describing the techn
   2016 - 2017
 
 ## Certificates
-Professional Certificate in Business Analytics- BRIT COLLEGE OF ENGINEERING & TECHNOLOGY,
+1.Professional Certificate in Business Analytics- BRIT COLLEGE OF ENGINEERING & TECHNOLOGY,
 UNITED KINGDOM
-2.The Data Science Course: Complete Data Science Bootcamp 2025 - UDEMY
+- 2.The Data Science Course: Complete Data Science Bootcamp 2025 - UDEMY
 
 
 ## Contacts
