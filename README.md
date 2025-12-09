@@ -45,7 +45,9 @@ In this section I will list data analytics projects briefly describing the techn
   2016 - 2017
 
 ## Certificates
-The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
+Professional Certificate in Business Analytics- BRIT COLLEGE OF ENGINEERING & TECHNOLOGY,
+UNITED KINGDOM
+2.The Data Science Course: Complete Data Science Bootcamp 2025 - UDEMY
 
 
 ## Contacts
